@@ -2,7 +2,7 @@
 
 # Portfólio Olá, Bem vindo ao meu projeto de portfólio.
 
-![image](https://github.com/halozer01/portef-lio/blob/main/assets/projeto.png)
+![image](https://raw.githubusercontent.com/halozer01/portef-lio/refs/heads/main/assets/projeto.png)
 
 ## Ferramentas utilizadas:
 
