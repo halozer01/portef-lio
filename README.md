@@ -15,6 +15,10 @@ Olá, bem-vindo ao meu projeto de portfólio, realizado durante o curso de HTML 
 - [LinkedIn](https://www.linkedin.com/in/anderson-silva-29692b15a/)
 - [Instagram](https://www.instagram.com/anderxqdl/)
 
+## Demo
+
+Explore o projeto aqui: [Portfólio no Vercel](https://portfolio-ten-xi-16.vercel.app/)
+
 ## Nota
 
-Este projeto foi desenvolvido como parte do curso de HTML e CSS da Alura. Sinta-se à vontade para explorar e adaptar o código conforme necessário. Se tiver alguma dúvida ou sugestão, entre em contato pelas minhas redes sociais acima.
+ Sinta-se à vontade para explorar e adaptar o código conforme necessário. Se tiver alguma dúvida ou sugestão, entre em contato pelas minhas redes sociais acima.
